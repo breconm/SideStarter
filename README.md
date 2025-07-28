@@ -44,25 +44,6 @@ Designed to be simple, motivational, and accessible (even offline), SideStarter 
 
 ---
 
-## Folder Structure (Planned)
-
-    sidestarter/
-    ├── public/
-    ├── src/
-    │ ├── assets/
-    │ ├── components/
-    │ ├── pages/
-    │ ├── features/
-    │ ├── services/
-    │ ├── context/
-    │ └── App.jsx
-    ├── .env
-    ├── firebase.json
-    └── README.md
-
-
----
-
 ## 🔧 Getting Started
 
     ```bash
